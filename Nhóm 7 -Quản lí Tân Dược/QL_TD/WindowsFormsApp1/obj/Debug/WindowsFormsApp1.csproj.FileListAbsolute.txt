@@ -1,0 +1,85 @@
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Splash.resources
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\bin\Debug\Guna.UI.dll
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Employees.resources
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Customers.resources
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Products.resources
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Billings.resources
+C:\Users\tranv\Documents\Pet_c#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\tranv\Documents\Pet_c#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tranv\Documents\Pet_c#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Billings.resources
+C:\Users\tranv\Documents\Pet_c#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CreateAccount.resources
+C:\Users\tranv\Documents\Pet_c#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Customers.resources
+C:\Users\tranv\Documents\Pet_c#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Employees.resources
+C:\Users\tranv\Documents\Pet_c#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
+C:\Users\tranv\Documents\Pet_c#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\tranv\Documents\Pet_c#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Products.resources
+C:\Users\tranv\Documents\Pet_c#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Splash.resources
+C:\Users\tranv\Documents\Pet_c#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\tranv\Documents\Pet_c#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\tranv\Documents\Pet_c#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\tranv\Documents\Pet_c#\WindowsFormsApp1\bin\Debug\PetShopDb.mdf
+C:\Users\tranv\Documents\Pet_c#\WindowsFormsApp1\bin\Debug\PetShopDb_log.ldf
+C:\Users\tranv\Documents\Pet_c#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\tranv\Documents\Pet_c#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\tranv\Documents\Pet_c#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\tranv\Documents\Pet_c#\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\tranv\Documents\Pet_c#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\tranv\Documents\Pet_c#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\tranv\Documents\Pet_c#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\tranv\OneDrive\Desktop\QL_Tân_Dược\QL_TD\WindowsFormsApp1\bin\Debug\PetShopDb.mdf
+C:\Users\tranv\OneDrive\Desktop\QL_Tân_Dược\QL_TD\WindowsFormsApp1\bin\Debug\PetShopDb_log.ldf
+C:\Users\tranv\OneDrive\Desktop\QL_Tân_Dược\QL_TD\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\tranv\OneDrive\Desktop\QL_Tân_Dược\QL_TD\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\tranv\OneDrive\Desktop\QL_Tân_Dược\QL_TD\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\tranv\OneDrive\Desktop\QL_Tân_Dược\QL_TD\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\tranv\OneDrive\Desktop\QL_Tân_Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\tranv\OneDrive\Desktop\QL_Tân_Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tranv\OneDrive\Desktop\QL_Tân_Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Billings.resources
+C:\Users\tranv\OneDrive\Desktop\QL_Tân_Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CreateAccount.resources
+C:\Users\tranv\OneDrive\Desktop\QL_Tân_Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Customers.resources
+C:\Users\tranv\OneDrive\Desktop\QL_Tân_Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Employees.resources
+C:\Users\tranv\OneDrive\Desktop\QL_Tân_Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
+C:\Users\tranv\OneDrive\Desktop\QL_Tân_Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\tranv\OneDrive\Desktop\QL_Tân_Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Products.resources
+C:\Users\tranv\OneDrive\Desktop\QL_Tân_Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Splash.resources
+C:\Users\tranv\OneDrive\Desktop\QL_Tân_Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\tranv\OneDrive\Desktop\QL_Tân_Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\tranv\OneDrive\Desktop\QL_Tân_Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\tranv\OneDrive\Desktop\QL_Tân_Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\tranv\OneDrive\Desktop\QL_Tân_Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\tranv\OneDrive\Desktop\QL_Tân_Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Poisedon\Desktop\Nhóm 7 -Quản lí Tân Dược\Nhóm 7 -Quản lí Tân Dược\QL_TD\WindowsFormsApp1\bin\Debug\PetShopDb.mdf
+C:\Users\Poisedon\Desktop\Nhóm 7 -Quản lí Tân Dược\Nhóm 7 -Quản lí Tân Dược\QL_TD\WindowsFormsApp1\bin\Debug\PetShopDb_log.ldf
+C:\Users\Poisedon\Desktop\Nhóm 7 -Quản lí Tân Dược\Nhóm 7 -Quản lí Tân Dược\QL_TD\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Poisedon\Desktop\Nhóm 7 -Quản lí Tân Dược\Nhóm 7 -Quản lí Tân Dược\QL_TD\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Poisedon\Desktop\Nhóm 7 -Quản lí Tân Dược\Nhóm 7 -Quản lí Tân Dược\QL_TD\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Poisedon\Desktop\Nhóm 7 -Quản lí Tân Dược\Nhóm 7 -Quản lí Tân Dược\QL_TD\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Poisedon\Desktop\Nhóm 7 -Quản lí Tân Dược\Nhóm 7 -Quản lí Tân Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Poisedon\Desktop\Nhóm 7 -Quản lí Tân Dược\Nhóm 7 -Quản lí Tân Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Billings.resources
+C:\Users\Poisedon\Desktop\Nhóm 7 -Quản lí Tân Dược\Nhóm 7 -Quản lí Tân Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CreateAccount.resources
+C:\Users\Poisedon\Desktop\Nhóm 7 -Quản lí Tân Dược\Nhóm 7 -Quản lí Tân Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Customers.resources
+C:\Users\Poisedon\Desktop\Nhóm 7 -Quản lí Tân Dược\Nhóm 7 -Quản lí Tân Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Employees.resources
+C:\Users\Poisedon\Desktop\Nhóm 7 -Quản lí Tân Dược\Nhóm 7 -Quản lí Tân Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
+C:\Users\Poisedon\Desktop\Nhóm 7 -Quản lí Tân Dược\Nhóm 7 -Quản lí Tân Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\Poisedon\Desktop\Nhóm 7 -Quản lí Tân Dược\Nhóm 7 -Quản lí Tân Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Products.resources
+C:\Users\Poisedon\Desktop\Nhóm 7 -Quản lí Tân Dược\Nhóm 7 -Quản lí Tân Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Splash.resources
+C:\Users\Poisedon\Desktop\Nhóm 7 -Quản lí Tân Dược\Nhóm 7 -Quản lí Tân Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Poisedon\Desktop\Nhóm 7 -Quản lí Tân Dược\Nhóm 7 -Quản lí Tân Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Poisedon\Desktop\Nhóm 7 -Quản lí Tân Dược\Nhóm 7 -Quản lí Tân Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Poisedon\Desktop\Nhóm 7 -Quản lí Tân Dược\Nhóm 7 -Quản lí Tân Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Poisedon\Desktop\Nhóm 7 -Quản lí Tân Dược\Nhóm 7 -Quản lí Tân Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Poisedon\Desktop\Nhóm 7 -Quản lí Tân Dược\Nhóm 7 -Quản lí Tân Dược\QL_TD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
